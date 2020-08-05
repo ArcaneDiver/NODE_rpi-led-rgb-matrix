@@ -19,7 +19,7 @@
     "easybotics-rpi-rgb-led-matrix": "^0.2.6",
     "ejs": "^2.6.1",
     "express": "^4.16.4",
-    "express-fileupload": "^1.1.4",
+    "express-fileupload": "^1.1.9",
     "express-session": "^1.17.0",
     "gif-frames": "^1.0.1",
     "image-convert": "^0.1.33",
